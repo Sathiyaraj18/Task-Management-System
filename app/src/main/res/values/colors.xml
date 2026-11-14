@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary Colors -->
+    <color name="primary">#2563EB</color>
+    <color name="primary_dark">#1D4ED8</color>
+    <color name="primary_light">#DBEAFE</color>
+    <color name="accent">#3B82F6</color>
+
+    <!-- Neutral Backgrounds & Surfaces -->
+    <color name="window_background">#F8FAFC</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="divider_line">#E2E8F0</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="search_background">#F1F5F9</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#EF4444</color>
+    <color name="priority_high_bg">#FEE2E2</color>
+    <color name="priority_high_text">#B91C1C</color>
+
+    <color name="priority_medium">#F59E0B</color>
+    <color name="priority_medium_bg">#FEF3C7</color>
+    <color name="priority_medium_text">#B45309</color>
+
+    <color name="priority_low">#10B981</color>
+    <color name="priority_low_bg">#D1FAE5</color>
+    <color name="priority_low_text">#047857</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending">#F97316</color>
+    <color name="status_pending_bg">#FFEDD5</color>
+    <color name="status_pending_text">#C2410C</color>
+
+    <color name="status_in_progress">#0284C7</color>
+    <color name="status_in_progress_bg">#E0F2FE</color>
+    <color name="status_in_progress_text">#0369A1</color>
+
+    <color name="status_completed">#16A34A</color>
+    <color name="status_completed_bg">#DCFCE7</color>
+    <color name="status_completed_text">#15803D</color>
+
+    <!-- Dashboard Stat Backgrounds -->
+    <color name="stat_total_bg">#EFF6FF</color>
+    <color name="stat_total_accent">#3B82F6</color>
+
+    <color name="stat_pending_bg">#FFF7ED</color>
+    <color name="stat_pending_accent">#F97316</color>
+
+    <color name="stat_progress_bg">#F0F9FF</color>
+    <color name="stat_progress_accent">#0284C7</color>
+
+    <color name="stat_completed_bg">#ECFDF5</color>
+    <color name="stat_completed_accent">#10B981</color>
+
+    <!-- Overdue Alert -->
+    <color name="overdue_bg">#FEE2E2</color>
+    <color name="overdue_text">#DC2626</color>
+
+    <!-- Action Buttons -->
+    <color name="btn_danger">#EF4444</color>
+    <color name="btn_danger_pressed">#DC2626</color>
+</resources>

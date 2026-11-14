@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/layout_activity_task_list.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/layout/activity_task_list.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_logout.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_search.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/layout_item_task_card.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/layout/item_task_card.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_email.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_badge_completed.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/badge_completed.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.taskmanagement.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_clear.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_clear.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_bg_search_input.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/bg_search_input.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/menu_menu_task_list.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/menu/menu_task_list.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_bg_stat_total.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/bg_stat_total.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_badge_in_progress.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/badge_in_progress.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_in_progress.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_in_progress.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_badge_priority_low.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/badge_priority_low.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_completed.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_completed.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_total_tasks.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_total_tasks.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.taskmanagement.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/layout_activity_task_detail.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/layout/activity_task_detail.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_lock.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_pending.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_pending.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_bg_chip_unselected.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/bg_chip_unselected.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_empty_tasks.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_empty_tasks.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_bg_stat_progress.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/bg_stat_progress.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_task_logo.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_task_logo.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_badge_overdue.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/badge_overdue.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.taskmanagement.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_bg_stat_pending.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/bg_stat_pending.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_bg_chip_selected.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/bg_chip_selected.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.taskmanagement.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_more_vert.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_person.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/layout_activity_splash.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_edit.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_clock.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/layout_activity_register.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_badge_priority_high.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/badge_priority_high.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.taskmanagement.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_add.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_ic_delete.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_badge_priority_medium.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/badge_priority_medium.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_badge_pending.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/badge_pending.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_bg_rounded_card.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/bg_rounded_card.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/drawable_bg_stat_completed.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/drawable/bg_stat_completed.xml"
+    },
+    {
+        "merged": "com.example.taskmanagement.app-debug-32:/layout_activity_add_edit_task.xml.flat",
+        "source": "com.example.taskmanagement.app-main-34:/layout/activity_add_edit_task.xml"
+    }
+]
